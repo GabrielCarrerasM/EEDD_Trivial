@@ -9,7 +9,12 @@ public class TrivialTests {
     }
 
     @Test
+
     public void crear_Game(){
         Game trivial = new Game();
     }
+
+    @Test
+    public
+
 }
