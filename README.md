@@ -17,6 +17,10 @@ Modificamos la clase esJugable para que pueda tener almenos dos jugadores.
 
 Modificamos la clase esJugable para que se adapte a lo que pide el problema
 
-## Problema 4 resuelto
+## Problema 4
 
 Modifico la clase noGanador para que realice lo que pide el problema
+
+## Problema 6 
+
+He suprimido código duplicado de la función "fueRespuestaCorrecta"
