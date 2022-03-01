@@ -8,3 +8,7 @@ al que llamamos desde ambos sitios.
 
 
 Creamos test unitario "si_el_principio_saco_un_1_voy_a_casilla1"
+
+## Problema 1 
+
+Modificamos la clase esJugable para que pueda tener almenos dos jugadores.
