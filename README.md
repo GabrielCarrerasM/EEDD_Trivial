@@ -15,7 +15,7 @@ Modificamos la clase esJugable para que pueda tener almenos dos jugadores.
 
 ## Problema 2
 
-Modificamos la clase esJugable para que se adapte al
+Modificamos la clase esJugable para que se adapte a lo que pide el problema
 
 ## Problema 4 resuelto
 
